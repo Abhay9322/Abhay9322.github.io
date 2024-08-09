@@ -245,6 +245,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 /*-------------------------------------
         4.  About
 --------------------------------------*/
+.about {
+    padding:  50px 0 100px;
+    border:  1px solid #e5ebf2;
+    
+}
 .about {padding: 50px 0 100px;}
 .about-content {padding-top: 100px;}
 /*.single-about-txt*/
@@ -345,7 +350,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 /*-------------------------------------
         5.  Education
 --------------------------------------*/
-
+.education {
+    padding:  50px 0 100px;
+    border:  1px solid #e5ebf2;
+    
+}
 .education {
     /* background:  #f9fbfd; */
     padding-top:  50px;
@@ -390,6 +399,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
         6.  Skills
 --------------------------------------*/
 .skills {
+    padding:  50px 0 100px;
+    border:  1px solid #e5ebf2;
     
 }
 .skill-content{padding: 50px 0 80px;}
@@ -915,7 +926,5 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     color: red;
 }
 
-.ho{
-    padding-top: 50px;
-}
+
 /* *========================Thank you================= */
